@@ -1,4 +1,4 @@
-![Header Image](https://www.bing.com/th/id/OGC.76d252a3b9726633708afb934f3a1eb2?pid=1.7&rurl=https%3a%2f%2fi.redd.it%2f8q45cwkpkz5b1.gif&ehk=X%2bAUQ%2bm1BbOT8vN8ouTUHEUfqQQeZxAY%2b%2fF1qQ9rhFg%3d) 
+![Header Image](https://img1.picmix.com/output/pic/normal/0/1/8/1/11131810_8fd92.gif) 
 
 <h1 align="center">Hi, My Name is Abigail! 👋</h1>
 
