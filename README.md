@@ -12,8 +12,8 @@
 
 - 🎒 I’m a **1st-year vocational high school student** (SMK TARUNA BHAKTI) passionate about **technology and programming**.  
 - 🎮 I love playing games, especially **RPGs, open-world, and strategy games**! Some of my favorites are **Mobile Legends, Minecraft, and Roblox**.  
-- 🎥 I’m a big fan of **anime**, and my favorite genres are **shounen, isekai, and slice of life**. Some of my favorite series include **Attack on Titan, Sword Art Online, and Your Name**.  
-- 💻 I’m currently learning **Python and JavaScript** to start my journey in game development and web development.  
+- 🎥 I’m a big fan of **anime**, and my favorite genres are **shounen, isekai, and slice of life**. Some of my favorite series include **Bochi The Rock, One Piece, and Bleach**.  
+- 💻 I’m currently learning **ReactJs and JavaScript** to start my journey in game development and web development.  
 - 🌱 I’m interested in **game development, web development, and cybersecurity**.  
 - 🤝 I’m looking to collaborate on **small coding projects and game mods**.  
 - ⚡ Fun fact: **I can spend hours customizing my gaming setup and creating anime-themed wallpapers!**  
