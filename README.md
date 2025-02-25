@@ -3,19 +3,20 @@
 <h1 align="center">Hi, My Name is Abigail! 👋</h1>
 
 <p align="center">
-  <em>Passionate Developer | Open Source Enthusiast | Lifelong Learner</em>
+  <em>Student | Aspiring Developer | Anime & Gaming Enthusiast</em>
 </p>
 
 ---
 
 ## 🚀 About Me:
 
-- 🛠️ I’m currently working on **[your current project or area of focus]**  
-- 🤝 I’m looking to collaborate on **[open-source projects, specific technologies, or fields]**  
-- 💛 I’m looking for help with **[topics or technologies you need assistance with]**  
-- 🌱 I’m currently learning **[new programming languages, frameworks, or tools]**  
-- 💬 Ask me about **[your expertise, interests, or topics you're passionate about]**  
-- ⚡ Fun fact: **[a unique or interesting fact about you]**  
+- 🎒 I’m a **1st-year vocational high school student** (SMK) passionate about **technology and programming**.  
+- 🎮 I love playing games, especially **RPGs, open-world, and strategy games**! Some of my favorites are **Genshin Impact, Minecraft, and Valorant**.  
+- 🎥 I’m a big fan of **anime**, and my favorite genres are **shounen, isekai, and slice of life**. Some of my favorite series include **Attack on Titan, Sword Art Online, and Your Name**.  
+- 💻 I’m currently learning **Python and JavaScript** to start my journey in game development and web development.  
+- 🌱 I’m interested in **game development, web development, and cybersecurity**.  
+- 🤝 I’m looking to collaborate on **small coding projects and game mods**.  
+- ⚡ Fun fact: **I can spend hours customizing my gaming setup and creating anime-themed wallpapers!**  
 
 ---
 
@@ -24,11 +25,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ---
@@ -60,6 +59,7 @@
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+> *"A person grows up when he has to. When he ceases to whine and starts doing things on his own."* – Gintoki Sakata 
 
 ---
+
