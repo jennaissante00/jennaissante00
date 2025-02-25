@@ -10,7 +10,7 @@
 
 ## 🚀 About Me:
 
-- 🎒 I’m a **1st-year vocational high school student** (SMK) passionate about **technology and programming**.  
+- 🎒 I’m a **1st-year vocational high school student** (SMK TARUNA BHAKTI) passionate about **technology and programming**.  
 - 🎮 I love playing games, especially **RPGs, open-world, and strategy games**! Some of my favorites are **Genshin Impact, Minecraft, and Valorant**.  
 - 🎥 I’m a big fan of **anime**, and my favorite genres are **shounen, isekai, and slice of life**. Some of my favorite series include **Attack on Titan, Sword Art Online, and Your Name**.  
 - 💻 I’m currently learning **Python and JavaScript** to start my journey in game development and web development.  
