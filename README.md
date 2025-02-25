@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img1.picmix.com/output/pic/normal/0/1/8/1/11131810_8fd92.gif" width="800" height="auto">
+  <img src="https://img1.picmix.com/output/pic/normal/0/1/8/1/11131810_8fd92.gif" width="400" height="auto">
 </p>
 
 <h1 align="center">Hi, My Name is Abigail! 👋</h1>
