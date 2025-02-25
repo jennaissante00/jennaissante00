@@ -1,4 +1,4 @@
-![Header Image](https://www.bing.com/th/id/OGC.76d252a3b9726633708afb934f3a1eb2?pid=1.7&rurl=https%3a%2f%2fi.redd.it%2f8q45cwkpkz5b1.gif&ehk=X%2bAUQ%2bm1BbOT8vN8ouTUHEUfqQQeZxAY%2b%2fF1qQ9rhFg%3d) 
+![Header Image](https://www.bing.com/th/id/OGC.9701da934de80a940f81b7c1137d361f?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fV8QQHq5r5AgAAAAC%2fbocchi-bocchi-the-rock.gif&ehk=G2eFjJTLcRDAmOr1rQrBwU7MMhEI2cm39k%2bVyageSaM%3d) 
 
 <h1 align="center">Hi, My Name is Abigail! 👋</h1>
 
